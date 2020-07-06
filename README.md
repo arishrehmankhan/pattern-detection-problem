@@ -54,7 +54,7 @@ Similarity index
 
 This completes the descript.
 
-![Fig 1](/img/Fig_1-Data_Series "Fig 1")
-![Fig 2](/img/Fig_2-Pattern "Fig 1")
-![Fig 3](/img/Fig_3-Similarity "Fig 1")
-![Fig 4](/img/Fig_4-pattern_search_multiple "Fig 1")
+![Fig 1](img/Fig_1-Data_Series.jpeg "Fig 1")
+![Fig 2](img/Fig_2-Pattern.jpeg "Fig 2")
+![Fig 3](img/Fig_3-Similarity.jpeg "Fig 3")
+![Fig 4](img/Fig_4-pattern_search_multiple.jpeg "Fig 4")
